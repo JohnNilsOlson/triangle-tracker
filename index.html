@@ -8,21 +8,26 @@
     <title>Triangle Tracker</title>
   </head>
   <body>
-    <form id="triangle">
-      <h3>Enter the lengths of each side of a triangle:</h3>
-      <div class="form-group">
-        <label for="sidea">Side A</label>
-        <input id="sidea" class="form-control" type="number">
+    <div class="container">
+      <h1>What kind of triangle do I have?</h1>
+      <form id="triangle">
+        <h3>Enter the lengths of each side of a triangle:</h3>
+        <div class="form-group">
+          <label for="sidea">Side A</label>
+          <input id="sidea" class="form-control" type="number">
+        </div>
+        <div class="form-group">
+          <label for="sideb">Side B</label>
+          <input id="sideb" class="form-control" type="number">
+        </div>
+        <div class="form-group">
+          <label for="sidec">Side C</label>
+          <input id="sidec" class="form-control" type="number">
+        </div>
+        <button type="submit" class="btn">Check my triangle!</button>
+      </form>
+      <div id="output">
       </div>
-      <div class="form-group">
-        <label for="sideb">Side B</label>
-        <input id="sideb" class="form-control" type="number">
-      </div>
-      <div class="form-group">
-        <label for="sidec">Side C</label>
-        <input id="sidec" class="form-control" type="number">
-      </div>
-    </form>
-
+    </div>
   </body>
 </html>

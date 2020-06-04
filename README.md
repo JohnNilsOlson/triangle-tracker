@@ -1,28 +1,37 @@
-# Project Title
+# Triangle Tracker
+June 4, 2020
 
 ## Project Description
-Description.
+Bringing together all lessons in jQuery from the second week of classes with Epicodus.
 
 ## Contributors
-JohnNils Olson
+JohnNils Olson  
+Sara Kane
 
 ## Usage
-Program usage.
+A website to check the form of a triangle.
 
 ## Technologies Used
-Technologies used.
+html  
+css  
+bootstrap  
+JavaScript  
+jQuery
 
 ## Installation Instructions
-* Cloning instructions.
-
-* Download instructions.
+Download instructions
+* Visit https://github.com/JohnNilsOlson/triangle-tracker.
+* Click download button.
+* Open triangle tracker directory.
+* Open index.html with browser of choice
 
 ## Bugs
 No known issues.
 
 ## Contact Information
-JohnNils Olson - johnnils@gmail.com
+JohnNils Olson - johnnils@gmail.com  
+Sara Kane kane.sarak@gmail.com
 
 ## License
 The [MIT] license.
-Copyright (c) 2020 JohnNils Olson
+Copyright (c) 2020 JohnNils Olson, Sara Kane
